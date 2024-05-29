@@ -7,10 +7,6 @@ const Navbar = () => {
 
     const [searchBoxVisibility, setSearchBoxVisibility] = useState(false)
 
-
-
-
-
     return (
         <>
             <nav className="navbar gap-4">
